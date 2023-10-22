@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/tn3w/tn3w/blob/master/example.gif">
+    <img src="https://github.com/tn3w/AsciiGifGen/blob/master/example.gif">
 </div>
 
 # AsciiGifGen
