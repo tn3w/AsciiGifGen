@@ -10,7 +10,9 @@ A cool little script to generate ascii gifs with your name.
    `git clone https://github.com/tn3w/AsciiGifGen.gif`
 2. Open the Directory
    `cd AsciiGifGen`
-3. Have fun!
+3. Install requirements
+   `python3 -m pip install -r requirements.txt`
+5. Have fun!
 
 ## 💩 Usage
 ### Console 
